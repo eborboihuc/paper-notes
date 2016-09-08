@@ -2,4 +2,10 @@
 
 --
 
-1. 
+**Note**: It seems that [the code from authors](https://github.com/openai/imitation) switched the order of *step 4.* and *step 5.*
+
+3: [Sample trajectories](https://github.com/openai/imitation/blob/master/policyopt/imitation.py#L438-L446)
+
+5: [Update policy](https://github.com/openai/imitation/blob/master/policyopt/imitation.py#L476-L484) 
+
+4: [Update discriminator](https://github.com/openai/imitation/blob/master/policyopt/imitation.py#L486-L498)
