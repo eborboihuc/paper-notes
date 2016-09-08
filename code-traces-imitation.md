@@ -2,7 +2,7 @@
 
 --
 
-**Note**: It seems that [the code from authors](https://github.com/openai/imitation) switched the order of *step 4.* and *step 5.*
+**Note**: It seems that code [here](https://github.com/openai/imitation/blob/master/policyopt/imitation.py#L476-L498) from authors switched the order of *step 4.* and *step 5.*
 
 3: [Sample trajectories](https://github.com/openai/imitation/blob/master/policyopt/imitation.py#L438-L446)
 
